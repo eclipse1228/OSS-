@@ -1,5 +1,17 @@
 # OSS-
 
-// 고병수 
+# include <stdio.h>
+
+int main()
+{
+int a, b;
+a= 100
+b= 200
+
+return 0;
+
+}
+
+
 
 
